@@ -1,0 +1,40 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+
+# NLP
+nltk
+transformers
+datasets
+torch
+pyarrow
+
+# Web scraping
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+inflect
+
+# Database
+pymongo
+
+# Fuzzy logic
+scikit-fuzzy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+nbformat
+tqdm
+
+# Document generation (comparison report)
+python-docx
+
+# Utilities
+fsspec

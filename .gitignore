@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & model outputs (too large for git)
+data/*.csv
+data/*.parquet
+outputs/
+model_outputs/
+*.pt
+*.pth
+*.pkl
+*.bin
+
+# Keep gitkeep placeholders
+!data/.gitkeep
+!outputs/.gitkeep
+
+# Generated CSVs
+TFIDF.csv
+TFIDF_articles.csv
+finbert_ft_daily_index.csv
+web_test_predictions.csv
+
+# Logs & caches
+*.log
+.cache/
+.DS_Store
+*.swp
+
+# Environment / secrets
+.env
+*.env
